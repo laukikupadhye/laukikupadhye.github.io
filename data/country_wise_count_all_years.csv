@@ -1,0 +1,255 @@
+release_year,release_month,country_x,count_movies
+2019.0,Nov,United States,89
+2019.0,Dec,India,66
+2020.0,Jan,United States,60
+2019.0,Oct,United States,44
+2018.0,Oct,India,40
+2018.0,Nov,India,38
+2018.0,Mar,India,38
+2019.0,Mar,United States,36
+2018.0,Aug,India,35
+2019.0,Jan,United States,33
+2017.0,May,India,32
+2019.0,Jul,United States,30
+2019.0,Jun,United States,30
+2019.0,Sep,United States,30
+2019.0,Apr,United States,26
+2018.0,Jul,United States,26
+2019.0,Dec,United States,23
+2017.0,Mar,Turkey,22
+2019.0,May,United States,22
+2019.0,Aug,United States,21
+2018.0,Jan,United States,21
+2019.0,May,India,20
+2018.0,Sep,United States,19
+2018.0,Apr,United States,18
+2019.0,Mar,Philippines,17
+2019.0,Apr,India,17
+2017.0,Oct,India,17
+2018.0,Mar,United States,17
+2017.0,Oct,United States,16
+2019.0,Feb,United States,16
+2017.0,Aug,United States,15
+2018.0,Dec,United States,15
+2018.0,Nov,United States,15
+2017.0,Sep,United States,15
+2018.0,Aug,United States,14
+2018.0,Apr,India,14
+2016.0,Dec,United States,14
+2018.0,Feb,United States,14
+2018.0,Jul,India,14
+2017.0,Mar,United States,13
+2017.0,Dec,India,13
+2018.0,May,India,12
+2017.0,Dec,United States,12
+2019.0,Feb,Philippines,12
+2019.0,Feb,India,11
+2019.0,Jun,India,11
+2019.0,Aug,India,11
+2017.0,Nov,United States,10
+2017.0,Jan,United States,10
+2017.0,Feb,United States,9
+2018.0,May,United States,9
+2017.0,Nov,India,9
+2017.0,Apr,United States,9
+2018.0,Jun,United States,9
+2019.0,Jan,India,8
+2017.0,Jun,United States,8
+2017.0,Jul,United States,8
+2017.0,Feb,India,8
+2017.0,Jul,India,8
+2019.0,Nov,India,8
+2018.0,Jan,India,8
+2017.0,Mar,India,8
+2017.0,May,United States,7
+2019.0,Feb,United Kingdom,7
+2017.0,Jun,India,7
+2018.0,Oct,United States,7
+2017.0,Jan,India,7
+2020.0,Jan,India,6
+2018.0,Feb,India,6
+2016.0,Jul,United States,6
+2020.0,Jan,"United Kingdom, United States",6
+2018.0,Sep,India,6
+2019.0,Sep,India,6
+2018.0,Mar,Canada,6
+2018.0,Dec,India,6
+2017.0,Apr,India,5
+2016.0,Apr,United States,5
+2018.0,Mar,United Kingdom,5
+2017.0,Mar,United Kingdom,4
+2019.0,Dec,"United Kingdom, United States",4
+2019.0,Mar,United Kingdom,4
+2018.0,Dec,Australia,4
+2019.0,Aug,United Kingdom,4
+2018.0,Sep,Indonesia,4
+2019.0,Jan,United Kingdom,4
+2019.0,Mar,India,4
+2020.0,Jan,"United States, Germany",4
+2019.0,Oct,India,4
+2020.0,Jan,United Kingdom,4
+2016.0,Aug,United States,4
+2019.0,Apr,Canada,4
+2015.0,Oct,United States,4
+2018.0,Sep,Thailand,4
+2019.0,Jan,Indonesia,4
+2018.0,Apr,Turkey,4
+2017.0,Dec,United Kingdom,4
+2017.0,Sep,United Kingdom,4
+2019.0,Sep,Nigeria,4
+2019.0,Nov,Nigeria,3
+2018.0,Jun,United Kingdom,3
+2017.0,Jun,Mexico,3
+2018.0,Jun,India,3
+2019.0,May,United Kingdom,3
+2017.0,Jul,Pakistan,3
+2018.0,Dec,Singapore,3
+2018.0,Dec,United Kingdom,3
+2017.0,Aug,Canada,3
+2019.0,Jul,Canada,3
+2019.0,Apr,United Kingdom,3
+2018.0,Oct,Indonesia,3
+2016.0,Sep,United States,3
+2016.0,Feb,United States,3
+2018.0,Oct,United Kingdom,3
+2016.0,Nov,Australia,3
+2019.0,Jun,Germany,3
+2016.0,Mar,United States,3
+2017.0,May,United Kingdom,3
+2019.0,Jun,Egypt,2
+2019.0,Nov,Canada,2
+2018.0,Aug,Chile,2
+2017.0,Sep,"France, Belgium",2
+2017.0,Sep,Canada,2
+2019.0,Feb,Spain,2
+2019.0,Jun,Romania,2
+2017.0,Jan,Taiwan,2
+2017.0,Jan,Mexico,2
+2019.0,Jul,Spain,2
+2017.0,Jul,Spain,2
+2019.0,Jul,India,2
+2019.0,Dec,Nigeria,2
+2017.0,Oct,Canada,2
+2017.0,May,Canada,2
+2018.0,Jul,Spain,2
+2019.0,Jan,"United States, United Kingdom",2
+2019.0,May,Canada,2
+2019.0,Dec,"United States, United Kingdom",2
+2018.0,Jul,United Kingdom,2
+2017.0,Mar,Canada,2
+2017.0,Nov,Canada,2
+2017.0,Jun,United Kingdom,2
+2017.0,Nov,Spain,2
+2018.0,Jul,"Australia, United States",2
+2019.0,Mar,"France, Belgium",2
+2017.0,Jun,"Canada, United States",2
+2018.0,Jun,Canada,2
+2018.0,Jan,France,2
+2017.0,Jan,Germany,2
+2016.0,Jul,Canada,2
+2019.0,Nov,"United States, Germany",2
+2017.0,Dec,Canada,2
+2019.0,Apr,Egypt,2
+2016.0,Dec,India,2
+2017.0,Aug,Malaysia,2
+2019.0,Oct,Canada,2
+2017.0,Aug,Australia,2
+2016.0,Dec,United Kingdom,2
+2018.0,May,United Kingdom,2
+2017.0,Apr,Spain,2
+2019.0,Oct,Nigeria,2
+2018.0,Nov,"United States, Canada",2
+2019.0,Oct,United Kingdom,2
+2016.0,Oct,United States,2
+2016.0,Nov,India,2
+2018.0,Nov,Indonesia,2
+2019.0,Sep,France,2
+2016.0,Nov,United Kingdom,2
+2016.0,Oct,India,2
+2016.0,Nov,United States,2
+2016.0,Oct,France,2
+2018.0,Mar,"United Kingdom, United States",2
+2016.0,Dec,Mexico,2
+2018.0,Nov,Thailand,2
+2018.0,Sep,"United Kingdom, United States",2
+2017.0,Feb,Brazil,2
+2015.0,Sep,United States,2
+2017.0,Feb,South Korea,2
+2015.0,Dec,United States,2
+2019.0,Aug,Netherlands,1
+2019.0,Aug,Philippines,1
+2012.0,Jul,United States,1
+2019.0,Sep,Spain,1
+2019.0,Jul,"United States, China",1
+2019.0,May,South Korea,1
+2018.0,May,Mexico,1
+2017.0,Jul,Singapore,1
+2017.0,Dec,"India, Soviet Union",1
+2017.0,Feb,Argentina,1
+2017.0,Nov,Singapore,1
+2017.0,Oct,"Australia, India",1
+2017.0,Oct,"Australia, United Arab Emirates",1
+2017.0,Sep,Australia,1
+2017.0,May,France,1
+2016.0,Dec,Turkey,1
+2016.0,Aug,Australia,1
+2016.0,Aug,France,1
+2016.0,Aug,India,1
+2016.0,Aug,United Kingdom,1
+2016.0,Feb,"China, United States",1
+2016.0,Jul,India,1
+2016.0,Jul,"India, United Kingdom",1
+2016.0,Jul,Nigeria,1
+2016.0,Jun,United States,1
+2016.0,Mar,Canada,1
+2016.0,Mar,Spain,1
+2016.0,Mar,"United Arab Emirates, Jordan",1
+2016.0,Mar,"United States, Canada",1
+2016.0,Apr,United Kingdom,1
+2016.0,Apr,"Canada, United Kingdom, United States",1
+2016.0,Apr,Canada,1
+2013.0,Dec,United States,1
+2014.0,Apr,United States,1
+2014.0,Dec,"United Kingdom, United States",1
+2014.0,Jan,"United Kingdom, Egypt, United States",1
+2014.0,Nov,Canada,1
+2015.0,Apr,United Kingdom,1
+2015.0,Apr,United States,1
+2015.0,Dec,"Australia, France, Ireland",1
+2015.0,Dec,Nigeria,1
+2015.0,Feb,United States,1
+2015.0,Jul,Germany,1
+2015.0,Jul,United States,1
+2015.0,Jun,United States,1
+2015.0,May,United States,1
+2015.0,Nov,United States,1
+2015.0,Oct,"Italy, France",1
+2015.0,Sep,"Canada, United States",1
+2015.0,Sep,"Norway, United Kingdom, France, Ireland",1
+2016.0,Apr,"Belgium, France",1
+2016.0,May,"Canada, United Kingdom",1
+2016.0,May,France,1
+2016.0,May,United States,1
+2017.0,Apr,"South Africa, United States, Germany",1
+2017.0,Apr,"Spain, Mexico",1
+2017.0,Aug,"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",1
+2016.0,Nov,"France, Qatar",1
+2016.0,Oct,"Canada, United States",1
+2016.0,Oct,"Chile, United States, France",1
+2016.0,Sep,"Canada, United States",1
+2016.0,Sep,"Ireland, United Kingdom, United States",1
+2016.0,Sep,Netherlands,1
+2016.0,Sep,"Pakistan, Norway, United States",1
+2018.0,May,"Argentina, Spain",1
+2018.0,Jun,"United States, Canada, Ireland",1
+2012.0,Nov,"United States, Mexico",1
+2018.0,Oct,Japan,1
+2018.0,Aug,Hong Kong,1
+2018.0,Aug,"India, Iran",1
+2018.0,Apr,Bulgaria,1
+2018.0,Apr,"Canada, United States",1
+2018.0,Jan,"Czech Republic, United States",1
+2018.0,Jan,"India, France",1
+2018.0,Feb,Australia,1
+2018.0,Feb,"Czech Republic, United Kingdom, France",1
+2018.0,Feb,France,1

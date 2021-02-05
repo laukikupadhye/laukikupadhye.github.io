@@ -1,0 +1,432 @@
+release_year,release_month,country_x,count_movies,title_x,avg_vote
+2019.0,Nov,United States,89,the matrix,8.7
+2019.0,Nov,United States,89,american history x,8.5
+2019.0,Dec,India,66,gol maal,8.6
+2019.0,Dec,India,66,koshish,8.6
+2020.0,Jan,United States,60,american beauty,8.3
+2020.0,Jan,United States,60,magnolia,8.0
+2019.0,Oct,United States,44,raging bull,8.2
+2019.0,Oct,United States,44,sin city,8.0
+2018.0,Oct,India,40,dev.d,8.0
+2018.0,Oct,India,40,sanju,7.8
+2018.0,Nov,India,38,manto,8.5
+2018.0,Nov,India,38,paan singh tomar,8.2
+2018.0,Mar,India,38,iqbal,8.1
+2018.0,Mar,India,38,laal rang,8.0
+2019.0,Mar,United States,36,doubt,7.5
+2019.0,Mar,United States,36,blue jasmine,7.3
+2018.0,Aug,India,35,2 states,8.2
+2018.0,Aug,India,35,tikli and laxmi bomb,8.2
+2019.0,Jan,United States,33,pulp fiction,8.9
+2019.0,Jan,United States,33,indiana jones and the last crusade,8.2
+2017.0,May,India,32,drishyam,8.3
+2017.0,May,India,32,queen,8.2
+2019.0,Jul,United States,30,rain man,8.0
+2019.0,Jul,United States,30,short term 12,8.0
+2019.0,Jun,United States,30,spider-man: into the spider-verse,8.4
+2019.0,Jun,United States,30,50/50,7.6
+2019.0,Sep,United States,30,superbad,7.6
+2019.0,Sep,United States,30,my sister's keeper,7.4
+2019.0,Apr,United States,26,p.s. i love you,7.0
+2019.0,Apr,United States,26,arthur,6.9
+2018.0,Jul,United States,26,her,8.0
+2018.0,Jul,United States,26,the stranger,7.4
+2019.0,Dec,United States,23,the departed,8.5
+2019.0,Dec,United States,23,primal fear,7.7
+2017.0,Mar,Turkey,22,vizontele,8.0
+2017.0,Mar,Turkey,22,mucize,7.7
+2019.0,May,United States,22,the one i love,7.1
+2019.0,May,United States,22,always be my maybe,6.8
+2019.0,Aug,United States,21,rocky,8.1
+2019.0,Aug,United States,21,jackie brown,7.5
+2018.0,Jan,United States,21,dallas buyers club,8.0
+2018.0,Jan,United States,21,the conjuring,7.5
+2019.0,May,India,20,hamid,7.8
+2019.0,May,India,20,once upon a time in mumbaai,7.4
+2018.0,Sep,United States,19,brick,7.3
+2018.0,Sep,United States,19,black panther,7.3
+2018.0,Apr,United States,18,schindler's list,8.9
+2018.0,Apr,United States,18,balto,7.1
+2019.0,Mar,Philippines,17,seven sundays,7.8
+2019.0,Mar,Philippines,17,that thing called tadhana,7.5
+2019.0,Apr,India,17,njan prakashan,7.6
+2019.0,Apr,India,17,petta,7.2
+2017.0,Oct,India,17,wrong side raju,8.0
+2017.0,Oct,India,17,gour hari dastaan: the freedom file,7.5
+2018.0,Mar,United States,17,mango dreams,7.6
+2018.0,Mar,United States,17,rapture,7.2
+2017.0,Oct,United States,16,star trek,7.9
+2017.0,Oct,United States,16,the hateful eight,7.8
+2019.0,Feb,United States,16,paddleton,7.2
+2019.0,Feb,United States,16,we the animals,6.9
+2017.0,Aug,United States,15,opening night,8.0
+2017.0,Aug,United States,15,naked,7.8
+2018.0,Dec,United States,15,silencer,8.5
+2018.0,Dec,United States,15,avengers: infinity war,8.4
+2018.0,Nov,United States,15,the ballad of buster scruggs,7.3
+2018.0,Nov,United States,15,the christmas chronicles,7.1
+2017.0,Sep,United States,15,frequency,7.3
+2017.0,Sep,United States,15,our souls at night,6.9
+2018.0,Aug,United States,14,hostiles,7.2
+2018.0,Aug,United States,14,wish i was here,6.7
+2018.0,Apr,India,14,sairat,8.3
+2018.0,Apr,India,14,barsaat,7.9
+2016.0,Dec,United States,14,from dusk till dawn,7.2
+2016.0,Dec,United States,14,other people,6.8
+2018.0,Feb,United States,14,the bachelors,6.8
+2018.0,Feb,United States,14,princess cyd,6.7
+2018.0,Jul,India,14,angamaly diaries,8.0
+2018.0,Jul,India,14,i am kalam,8.0
+2017.0,Mar,United States,13,coraline,7.7
+2017.0,Mar,United States,13,five came back,7.1
+2017.0,Dec,India,13,eh janam tumhare lekhe,8.6
+2017.0,Dec,India,13,taare zameen par,8.4
+2018.0,May,India,12,love ni bhavai,8.4
+2018.0,May,India,12,andaz apna apna,8.2
+2017.0,Dec,United States,12,creep 2,6.4
+2017.0,Dec,United States,12,some freaks,6.3
+2019.0,Feb,Philippines,12,four sisters and a wedding,7.3
+2019.0,Feb,Philippines,12,can't help falling in love,7.2
+2019.0,Feb,India,11,shonar pahar,8.1
+2019.0,Feb,India,11,manusangada,7.9
+2019.0,Jun,India,11,super deluxe,8.4
+2019.0,Jun,India,11,kahaani,8.1
+2019.0,Aug,India,11,3 idiots,8.4
+2019.0,Aug,India,11,uyare,8.0
+2017.0,Nov,United States,10,9,7.7
+2017.0,Nov,United States,10,mudbound,7.4
+2017.0,Jan,United States,10,camp x-ray,6.9
+2017.0,Jan,United States,10,max rose,6.2
+2017.0,Feb,United States,9,imperial dreams,6.7
+2017.0,Feb,United States,9,"aram, aram",6.5
+2018.0,May,United States,9,small town crime,6.6
+2018.0,May,United States,9,scandal,6.5
+2017.0,Nov,India,9,6-5=2,5.9
+2017.0,Nov,India,9,kis kisko pyaar karoon,5.7
+2017.0,Apr,United States,9,tramps,6.5
+2017.0,Apr,United States,9,good kill,6.4
+2018.0,Jun,United States,9,thor: ragnarok,7.9
+2018.0,Jun,United States,9,tarzan,7.3
+2019.0,Jan,India,8,merku thodarchi malai,8.5
+2019.0,Jan,India,8,taramani,7.5
+2017.0,Jun,United States,8,the stanford prison experiment,6.9
+2017.0,Jun,United States,8,how the grinch stole christmas,6.2
+2017.0,Jul,United States,8,to the bone,6.8
+2017.0,Jul,United States,8,the incredible jessica james,6.5
+2017.0,Feb,India,8,madaari,7.6
+2017.0,Feb,India,8,te3n,7.3
+2017.0,Jul,India,8,professor,7.1
+2017.0,Jul,India,8,liar's dice,6.9
+2019.0,Nov,India,8,oththa seruppu size 7,8.6
+2019.0,Nov,India,8,mallesham,8.5
+2018.0,Jan,India,8,fandry,8.3
+2018.0,Jan,India,8,maine pyar kiya,7.3
+2017.0,Mar,India,8,ottaal,8.3
+2017.0,Mar,India,8,ugly,8.0
+2017.0,May,United States,7,the place beyond the pines,7.3
+2017.0,May,United States,7,don't think twice,6.7
+2019.0,Feb,United Kingdom,7,safe,7.2
+2019.0,Feb,United Kingdom,7,postcards from london,5.1
+2017.0,Jun,India,7,dangal,8.4
+2017.0,Jun,India,7,kaabil,7.1
+2018.0,Oct,United States,7,my suicide,7.1
+2018.0,Oct,United States,7,brooklyn's finest,6.7
+2017.0,Jan,India,7,udta punjab,7.8
+2017.0,Jan,India,7,radiopetti,7.3
+2020.0,Jan,India,6,mandi,7.6
+2020.0,Jan,India,6,bulbul can sing,6.8
+2018.0,Feb,India,6,premachi goshta,7.3
+2018.0,Feb,India,6,tukaram,7.2
+2016.0,Jul,United States,6,king jack,7.0
+2016.0,Jul,United States,6,tallulah,6.7
+2020.0,Jan,"United Kingdom, United States",6,moon,7.9
+2020.0,Jan,"United Kingdom, United States",6,steve jobs,7.2
+2018.0,Sep,India,6,pk,8.1
+2018.0,Sep,India,6,samantaral,7.6
+2019.0,Sep,India,6,article 15,8.2
+2019.0,Sep,India,6,ee nagaraniki emaindi,7.9
+2018.0,Mar,Canada,6,trailer park boys,7.9
+2018.0,Mar,Canada,6,trailer park boys: countdown to liquor day,7.4
+2018.0,Dec,India,6,andhadhun,8.3
+2018.0,Dec,India,6,power paandi,7.5
+2017.0,Apr,India,5,killa,7.9
+2017.0,Apr,India,5,dear zindagi,7.6
+2016.0,Apr,United States,5,frank and cindy,6.1
+2016.0,Apr,United States,5,band of robbers,6.0
+2018.0,Mar,United Kingdom,5,requiem,7.0
+2018.0,Mar,United Kingdom,5,dad's army,7.0
+2017.0,Mar,United Kingdom,4,firstborn,6.3
+2017.0,Mar,United Kingdom,4,the riot club,6.0
+2019.0,Dec,"United Kingdom, United States",4,goldeneye,7.2
+2019.0,Dec,"United Kingdom, United States",4,tomorrow never dies,6.5
+2019.0,Mar,United Kingdom,4,layer cake,7.3
+2019.0,Mar,United Kingdom,4,pablo,6.6
+2018.0,Dec,Australia,4,faraar,7.0
+2018.0,Dec,Australia,4,breath,6.7
+2019.0,Aug,United Kingdom,4,starred up,7.4
+2019.0,Aug,United Kingdom,4,four weddings and a funeral,7.0
+2018.0,Sep,Indonesia,4,gie,7.6
+2018.0,Sep,Indonesia,4,the sinking of van der wijck,7.6
+2019.0,Jan,United Kingdom,4,monty python and the holy grail,8.2
+2019.0,Jan,United Kingdom,4,"lock, stock and two smoking barrels",8.2
+2019.0,Mar,India,4,sarkar,7.6
+2019.0,Mar,India,4,dear dad,6.4
+2020.0,Jan,"United States, Germany",4,coach carter,7.3
+2020.0,Jan,"United States, Germany",4,final destination 3,5.8
+2019.0,Oct,India,4,limitless,7.4
+2019.0,Oct,India,4,mehandi circus,7.4
+2020.0,Jan,United Kingdom,4,dracula,7.5
+2020.0,Jan,United Kingdom,4,mansfield park,7.1
+2016.0,Aug,United States,4,fearless,7.1
+2016.0,Aug,United States,4,i'll sleep when i'm dead,5.8
+2019.0,Apr,Canada,4,the new romantic,5.7
+2019.0,Apr,Canada,4,across the line,5.5
+2015.0,Oct,United States,4,beasts of no nation,7.7
+2015.0,Oct,United States,4,manson family vacation,5.8
+2018.0,Sep,Thailand,4,shutter,7.1
+2018.0,Sep,Thailand,4,one day,7.0
+2019.0,Jan,Indonesia,4,surga yang tak dirindukan,7.8
+2019.0,Jan,Indonesia,4,surga yang tak dirindukan 2,7.1
+2018.0,Apr,Turkey,4,organize isler,7.4
+2018.0,Apr,Turkey,4,ali baba ve 7 cüceler,5.8
+2017.0,Dec,United Kingdom,4,pusher,7.4
+2017.0,Dec,United Kingdom,4,the trip to spain,6.6
+2017.0,Sep,United Kingdom,4,forget me not,5.7
+2017.0,Sep,United Kingdom,4,the forgotten,5.1
+2019.0,Sep,Nigeria,4,the bridge,6.3
+2019.0,Sep,Nigeria,4,phone swap,6.1
+2019.0,Nov,Nigeria,3,payday,7.1
+2019.0,Nov,Nigeria,3,crazy people,6.1
+2018.0,Jun,United Kingdom,3,calibre,6.8
+2018.0,Jun,United Kingdom,3,the darkest dawn,4.1
+2017.0,Jun,Mexico,3,the incident,7.7
+2017.0,Jun,Mexico,3,y tu mamá también,7.6
+2018.0,Jun,India,3,lust stories,6.5
+2018.0,Jun,India,3,b.a. pass,6.4
+2019.0,May,United Kingdom,3,all the devil's men,5.1
+2019.0,May,United Kingdom,3,two graves,4.2
+2017.0,Jul,Pakistan,3,waar,7.9
+2017.0,Jul,Pakistan,3,ho mann jahaan,7.1
+2018.0,Dec,Singapore,3,the apartment,8.3
+2018.0,Dec,Singapore,3,lang tong,5.1
+2018.0,Dec,United Kingdom,3,bad education,7.1
+2018.0,Dec,United Kingdom,3,flowers,6.6
+2017.0,Aug,Canada,3,below her mouth,5.5
+2017.0,Aug,Canada,3,sadie's last days on earth,5.3
+2019.0,Jul,Canada,3,mean dreams,6.3
+2019.0,Jul,Canada,3,blown away,6.3
+2019.0,Apr,United Kingdom,3,about time,7.8
+2019.0,Apr,United Kingdom,3,a little chaos,6.5
+2018.0,Oct,Indonesia,3,surat dari praha,7.2
+2018.0,Oct,Indonesia,3,garuda di dadaku,6.7
+2016.0,Sep,United States,3,person of interest,5.7
+2016.0,Sep,United States,3,holy hell,4.2
+2016.0,Feb,United States,3,lila & eve,5.8
+2016.0,Feb,United States,3,french dirty,5.1
+2018.0,Oct,United Kingdom,3,bodyguard,6.5
+2018.0,Oct,United Kingdom,3,wanderlust,5.6
+2016.0,Nov,Australia,3,the interview,7.1
+2016.0,Nov,Australia,3,the last days of chez nous,6.5
+2019.0,Jun,Germany,3,alles ist gut,6.5
+2019.0,Jun,Germany,3,rock my heart,6.5
+2016.0,Mar,United States,3,blue mountain state: the rise of thadland,5.8
+2016.0,Mar,United States,3,chicken little,5.7
+2017.0,May,United Kingdom,3,mindhorn,6.3
+2017.0,May,United Kingdom,3,the hunt,4.4
+2019.0,Jun,Egypt,2,good luck,6.3
+2019.0,Jun,Egypt,2,the cell,6.3
+2019.0,Nov,Canada,2,elliot the littlest reindeer,5.0
+2019.0,Nov,Canada,2,dear santa,2.7
+2018.0,Aug,Chile,2,héroes,7.1
+2018.0,Aug,Chile,2,barrio universitario,3.5
+2017.0,Sep,"France, Belgium",2,love,6.9
+2017.0,Sep,"France, Belgium",2,moonwalkers,6.1
+2017.0,Sep,Canada,2,dark matter,6.0
+2017.0,Sep,Canada,2,swearnet: the movie,5.9
+2019.0,Feb,Spain,2,anchor and hope,6.3
+2019.0,Feb,Spain,2,yucatán,5.5
+2019.0,Jun,Romania,2,love is a story,6.1
+2019.0,Jun,Romania,2,"oh, ramona!",4.9
+2017.0,Jan,Taiwan,2,what is love?,7.0
+2017.0,Jan,Taiwan,2,in between,6.1
+2017.0,Jan,Mexico,2,estar o no estar,5.2
+2017.0,Jan,Mexico,2,semana santa,4.4
+2019.0,Jul,Spain,2,boi,4.9
+2019.0,Jul,Spain,2,"¡ay, mi madre!",3.8
+2017.0,Jul,Spain,2,uncertain glory,7.1
+2017.0,Jul,Spain,2,amar,7.0
+2019.0,Jul,India,2,mauli,6.0
+2019.0,Jul,India,2,bewafaa,4.3
+2019.0,Dec,Nigeria,2,isoken,6.3
+2019.0,Dec,Nigeria,2,lost in london,6.2
+2017.0,Oct,Canada,2,pup star: better 2gether,4.8
+2017.0,Oct,Canada,2,ghost patrol,4.7
+2017.0,May,Canada,2,two lovers and a bear,6.1
+2017.0,May,Canada,2,the adventure club,4.9
+2018.0,Jul,Spain,2,el club de los buenos infieles,5.5
+2018.0,Jul,Spain,2,the warning,2.7
+2019.0,Jan,"United States, United Kingdom",2,black hawk down,7.7
+2019.0,Jan,"United States, United Kingdom",2,across the universe,7.3
+2019.0,May,Canada,2,bad blood,6.4
+2019.0,May,Canada,2,lifechanger,5.4
+2019.0,Dec,"United States, United Kingdom",2,marriage story,8.0
+2019.0,Dec,"United States, United Kingdom",2,the rum diary,6.2
+2018.0,Jul,United Kingdom,2,ex machina,7.7
+2018.0,Jul,United Kingdom,2,amy,6.7
+2017.0,Mar,Canada,2,"bon cop, bad cop",6.8
+2017.0,Mar,Canada,2,backcountry,6.0
+2017.0,Nov,Canada,2,bon cop bad cop 2,6.6
+2017.0,Nov,Canada,2,undercover grandpa,5.2
+2017.0,Jun,United Kingdom,2,crashing,5.5
+2017.0,Jun,United Kingdom,2,amar akbar & tony,5.2
+2017.0,Nov,Spain,2,grand hotel,7.4
+2017.0,Nov,Spain,2,the girl from the song,5.6
+2018.0,Jul,"Australia, United States",2,the bleeding edge,6.8
+2018.0,Jul,"Australia, United States",2,the rover,6.4
+2019.0,Mar,"France, Belgium",2,burn out,6.2
+2019.0,Mar,"France, Belgium",2,budapest,6.0
+2017.0,Jun,"Canada, United States",2,shimmer lake,6.2
+2017.0,Jun,"Canada, United States",2,xx,4.5
+2018.0,Jun,Canada,2,birthmarked,5.7
+2018.0,Jun,Canada,2,the hollow,5.5
+2018.0,Jan,France,2,blockbuster,5.5
+2018.0,Jan,France,2,the frozen dead,5.1
+2017.0,Jan,Germany,2,berlin calling,7.3
+2017.0,Jan,Germany,2,stereo,6.5
+2016.0,Jul,Canada,2,gridlocked,5.8
+2016.0,Jul,Canada,2,between,4.2
+2019.0,Nov,"United States, Germany",2,the rainmaker,7.0
+2019.0,Nov,"United States, Germany",2,16 blocks,6.6
+2017.0,Dec,Canada,2,sardaar ji,6.4
+2017.0,Dec,Canada,2,goon: last of the enforcers,5.8
+2019.0,Apr,Egypt,2,warda,4.1
+2019.0,Apr,Egypt,2,roh's beauty,3.5
+2016.0,Dec,India,2,the violin player,6.9
+2016.0,Dec,India,2,interrogation,4.9
+2017.0,Aug,Malaysia,2,pekak,6.3
+2017.0,Aug,Malaysia,2,kl zombi,4.4
+2019.0,Oct,Canada,2,in the tall grass,5.4
+2019.0,Oct,Canada,2,a.m.i.,3.9
+2017.0,Aug,Australia,2,berlin syndrome,6.3
+2017.0,Aug,Australia,2,raising the bar,5.6
+2016.0,Dec,United Kingdom,2,captive,4.5
+2016.0,Dec,United Kingdom,2,merlin,3.8
+2018.0,May,United Kingdom,2,god's own country,6.3
+2018.0,May,United Kingdom,2,kaleidoscope,6.0
+2017.0,Apr,Spain,2,toro,5.9
+2017.0,Apr,Spain,2,skins,3.5
+2019.0,Oct,Nigeria,2,93 days,6.0
+2019.0,Oct,Nigeria,2,up north,5.2
+2018.0,Nov,"United States, Canada",2,cloudy with a chance of meatballs,6.9
+2018.0,Nov,"United States, Canada",2,helix,4.3
+2019.0,Oct,United Kingdom,2,trainspotting,8.1
+2019.0,Oct,United Kingdom,2,free fire,6.4
+2016.0,Oct,United States,2,mascots,5.7
+2016.0,Oct,United States,2,containment,4.9
+2016.0,Nov,India,2,mumbai cha raja,6.4
+2016.0,Nov,India,2,ludo,2.8
+2018.0,Nov,Indonesia,2,sabrina,7.7
+2018.0,Nov,Indonesia,2,target,6.0
+2019.0,Sep,France,2,marianne,6.2
+2019.0,Sep,France,2,the spy,6.2
+2016.0,Nov,United Kingdom,2,sour grapes,5.8
+2016.0,Nov,United Kingdom,2,paranoid,4.0
+2016.0,Oct,India,2,umrika,6.6
+2016.0,Oct,India,2,harud,6.5
+2016.0,Nov,United States,2,true memoirs of an international assassin,5.9
+2016.0,Nov,United States,2,mercy,5.4
+2016.0,Oct,France,2,blind date,6.1
+2016.0,Oct,France,2,west coast,5.8
+2018.0,Mar,"United Kingdom, United States",2,collateral,7.5
+2018.0,Mar,"United Kingdom, United States",2,inconceivable,3.1
+2016.0,Dec,Mexico,2,7:19,6.0
+2016.0,Dec,Mexico,2,rezeta,5.6
+2018.0,Nov,Thailand,2,yes or no 2.5,5.3
+2018.0,Nov,Thailand,2,girl from nowhere,3.9
+2018.0,Sep,"United Kingdom, United States",2,in darkness,7.3
+2018.0,Sep,"United Kingdom, United States",2,the debt collector,6.6
+2017.0,Feb,Brazil,2,operações especiais,6.4
+2017.0,Feb,Brazil,2,jonas,6.3
+2015.0,Sep,United States,2,6 years,5.6
+2015.0,Sep,United States,2,smosh: the movie,3.3
+2017.0,Feb,South Korea,2,white nights,6.7
+2017.0,Feb,South Korea,2,spark,5.4
+2015.0,Dec,United States,2,the ridiculous 6,4.8
+2015.0,Dec,United States,2,mike epps: don't take it personal,4.3
+2019.0,Aug,Netherlands,1,misfit,4.4
+2019.0,Aug,Philippines,1,crazy beautiful you,7.1
+2012.0,Jul,United States,1,white christmas,7.6
+2019.0,Sep,Spain,1,elite,4.5
+2019.0,Jul,"United States, China",1,the forbidden kingdom,6.6
+2019.0,May,South Korea,1,svaha: the sixth finger,6.2
+2018.0,May,Mexico,1,lo más sencillo es complicarlo todo,3.8
+2017.0,Jul,Singapore,1,the oath,5.4
+2017.0,Dec,"India, Soviet Union",1,shikari,4.5
+2017.0,Feb,Argentina,1,la última fiesta,4.4
+2017.0,Nov,Singapore,1,together,5.9
+2017.0,Oct,"Australia, India",1,sardaarji 2,5.3
+2017.0,Oct,"Australia, United Arab Emirates",1,otherlife,6.3
+2017.0,Sep,Australia,1,offspring,4.8
+2017.0,May,France,1,arès,6.2
+2016.0,Dec,Turkey,1,kaçak,6.0
+2016.0,Aug,Australia,1,holding the man,7.4
+2016.0,Aug,France,1,the little prince,6.6
+2016.0,Aug,India,1,dhanak,7.9
+2016.0,Aug,United Kingdom,1,children of god,6.7
+2016.0,Feb,"China, United States",1,"crouching tiger, hidden dragon: sword of destiny",6.1
+2016.0,Jul,India,1,x: past is present,5.3
+2016.0,Jul,"India, United Kingdom",1,brahman naman,5.6
+2016.0,Jul,Nigeria,1,road to yesterday,6.0
+2016.0,Jun,United States,1,the fundamentals of caring,7.3
+2016.0,Mar,Canada,1,monkey up,3.8
+2016.0,Mar,Spain,1,retribution,5.9
+2016.0,Mar,"United Arab Emirates, Jordan",1,zinzana,6.7
+2016.0,Mar,"United States, Canada",1,he never died,6.4
+2016.0,Apr,United Kingdom,1,africa,4.5
+2016.0,Apr,"Canada, United Kingdom, United States",1,special correspondents,5.8
+2016.0,Apr,Canada,1,justin time,3.7
+2013.0,Dec,United States,1,shrek the musical,7.0
+2014.0,Apr,United States,1,weeds,6.0
+2014.0,Dec,"United Kingdom, United States",1,get santa,6.2
+2014.0,Jan,"United Kingdom, Egypt, United States",1,the square,6.7
+2014.0,Nov,Canada,1,goosebumps,6.3
+2015.0,Apr,United Kingdom,1,residue,5.4
+2015.0,Apr,United States,1,star-crossed,5.5
+2015.0,Dec,"Australia, France, Ireland",1,santa's apprentice,6.4
+2015.0,Dec,Nigeria,1,fifty,6.0
+2015.0,Feb,United States,1,spartacus,7.9
+2015.0,Jul,Germany,1,the physician,7.2
+2015.0,Jul,United States,1,creep,4.8
+2015.0,Jun,United States,1,advantageous,6.2
+2015.0,May,United States,1,russell madness,4.2
+2015.0,Nov,United States,1,naomi and ely's no kiss list,5.5
+2015.0,Oct,"Italy, France",1,suburra,7.4
+2015.0,Sep,"Canada, United States",1,haven,5.8
+2015.0,Sep,"Norway, United Kingdom, France, Ireland",1,miss julie,6.2
+2016.0,Apr,"Belgium, France",1,belgica,6.7
+2016.0,May,"Canada, United Kingdom",1,hell on wheels,3.7
+2016.0,May,France,1,terra,6.5
+2016.0,May,United States,1,the do-over,5.7
+2017.0,Apr,"South Africa, United States, Germany",1,shepherds and butchers,6.8
+2017.0,Apr,"Spain, Mexico",1,the chosen,7.1
+2017.0,Aug,"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",1,barbecue,6.1
+2016.0,Nov,"France, Qatar",1,divines,7.4
+2016.0,Oct,"Canada, United States",1,i am the pretty thing that lives in the house,4.5
+2016.0,Oct,"Chile, United States, France",1,much ado about nothing,7.3
+2016.0,Sep,"Canada, United States",1,arq,6.4
+2016.0,Sep,"Ireland, United Kingdom, United States",1,penny dreadful,4.9
+2016.0,Sep,Netherlands,1,bon bini holland,5.5
+2016.0,Sep,"Pakistan, Norway, United States",1,dukhtar,7.0
+2018.0,May,"Argentina, Spain",1,despido procedente,5.0
+2018.0,Jun,"United States, Canada, Ireland",1,brain on fire,6.6
+2012.0,Nov,"United States, Mexico",1,casa de mi padre,5.5
+2018.0,Oct,Japan,1,lost song,6.1
+2018.0,Aug,Hong Kong,1,loving you,6.5
+2018.0,Aug,"India, Iran",1,beyond the clouds,7.0
+2018.0,Apr,Bulgaria,1,day of the dead: bloodline,3.4
+2018.0,Apr,"Canada, United States",1,kodachrome,6.8
+2018.0,Jan,"Czech Republic, United States",1,milada,6.2
+2018.0,Jan,"India, France",1,maacher jhol,7.0
+2018.0,Feb,Australia,1,emo the musical,6.1
+2018.0,Feb,"Czech Republic, United Kingdom, France",1,solomon kane,6.1
+2018.0,Feb,France,1,marseille,6.5

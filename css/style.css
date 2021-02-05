@@ -1,0 +1,77 @@
+html {
+    scroll-behavior: smooth;
+}
+.tooltip_heatmap{
+    position: absolute;
+    text-align: left;
+    padding: .5rem;
+    background: #FFFFFF;
+    color: #454545;
+    border: 1px solid #676767;
+    border-radius: 3px;
+    pointer-events: none;
+    font-size: 1rem;
+}
+
+.body{
+    align-content: center;
+}
+
+#background{
+    margin: auto;
+    width: 100%;
+    background-color: #333333;
+}
+
+.vizdiv{
+    border-radius: 8px;
+    opacity: 0.9;
+    background-color: #a5b1bf;
+    box-shadow: 0 2px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.1);
+}
+
+#background table{
+    align:center;
+    border-spacing: 20px;
+    padding-top: 10px;
+}
+
+#background table tr td{
+    align:center;
+    padding-left: 100px;
+}
+
+circle{
+    fill-opacity: .7;
+}
+
+line{
+    stroke: #2b2323;
+    stroke-opacity:0.6;
+}
+
+.label{
+    font-size: large;
+    font-family: sans-serif;
+}
+.note{
+    font-size: small;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-style: italic;
+}
+.pielabel{
+    font-size: 22px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+}
+.selectedYearMonth{
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+.headings{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #FFFAF0;
+}
+

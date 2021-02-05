@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Netflix Movie Recommendation</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="libs/d3/d3.min.js"></script>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script src="js/heatMap.js"></script>
+    <script src="js/nestedPie.js"></script>
+    <script src="js/network.js"></script>
+
+</head>
+<body>
+<div id="background" style="margin: auto; width:1400px; height:1400px;">
+    <div id="titleDiv" style="height: 80px;width:100%; align-content: center;background-color:#c0c0c0 ; ">
+        <p style="text-align: center;padding-top: 20px"><b>
+            <span style="color: #B22222; font-size: 38px;">Netflix Movie Recommendation</span></b>
+        </p>
+    </div>
+    <table >
+        <tr>
+            <td >
+                <span class="headings">Movie release count by year and month</span>
+                <div class="vizdiv">
+                    <svg width="500px" height="500px" viewBox="0 0 1000 1000" id="heatmap" ></svg>
+                    </svg>
+                </div>
+                <span class="note">*Click on box to view top countries and movies</span>
+            </td>
+            <td>
+                <span class="headings" id="pieheading">Top 5 countries with top rated movies in Jan-2020</span>
+                <div class="vizdiv">
+                    <svg width="500px" height="500px" viewBox="0 0 1000 1000" id="nestedpie" ></svg>
+                </div>
+                <span class="note">*Click on movie name to get top movies by director of same movie</span>
+            </td>
+        </tr>
+    </table>
+    <table >
+        <tr>
+            <td>
+                <span class="headings" id="netheading">Recommended movies by director: Quentin Tarantino </span>
+                <div class="vizdiv" id="map" >
+                    <svg width='1120px' height="550px" viewBox="0 0 1000 800" id="net">
+                    </svg>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <div id="tooltip_map">
+        <svg id="svg_tooltip" width="100%" height="100%" viewBox="0 0 200 100">
+        </svg>
+    </div>
+
+</div>
+    <script>
+        //data_location='../data/year_month_count.csv'
+        d3.dsv(',','data/year_month_count.csv',d3.autoType).then(function (data){
+            plotHeatMap(data)
+        })
+        Promise.all(
+            [   d3.dsv(',', 'data/country_wise_count_all_years.csv'),
+                d3.dsv(',', 'data/country_movies_ratings.csv')],d3.autoType()).then(
+                    function (data){
+                        plotNestedPie(data)
+                    })
+        d3.dsv(',','data/movies_by_director.csv',d3.autoType).then(function (data){
+            plotNetwork(data)
+        })
+
+    </script>
+</body>
+</html>
